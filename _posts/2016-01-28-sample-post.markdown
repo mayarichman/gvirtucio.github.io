@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GV's sample page"
+title:  "Sample page"
 subtitle: "Just Trying it out."
-date:   2015-09-28 22:56:45
+date:   2016-01-28 10:56:45
 ---
 
 Just A Sample Page with no category
