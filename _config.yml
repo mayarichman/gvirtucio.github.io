@@ -20,3 +20,4 @@ exclude: ["README.md", "README.html"]
 
 # Build settings
 markdown: kramdown
+timezone: Asia/Manila
