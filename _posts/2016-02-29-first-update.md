@@ -3,6 +3,7 @@ layout: post
 title:  "First Update"
 subtitle: "Just Trying it out."
 date:   2016-02-29 02:09:45
+published: true
 ---
 
 Finished my first [Jekyll](https://jekyllrb.com/) site. Took a while, but I made it.
