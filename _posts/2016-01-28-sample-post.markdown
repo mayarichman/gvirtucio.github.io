@@ -11,7 +11,6 @@ Testing stuff and etc.
 
 ___
 
-A blockquote:
 
 > I am GV!
 
