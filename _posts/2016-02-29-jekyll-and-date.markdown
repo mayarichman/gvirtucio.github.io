@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sample page"
-subtitle: "Just Trying it out."
+title:  "Jekyll and Date"
+subtitle: "Hmmm"
 date:   2016-2-28 05:56:45
 ---
 
