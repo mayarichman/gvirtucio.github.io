@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sample page"
-subtitle: "Just Trying it out."
-date:   2016-2-28 06:56:45
+title:  "Just A Sample Page"
+subtitle: "Nothing to read here"
+date:   2016-2-29 05:16:45
 ---
 
 Nothing to see here. 
