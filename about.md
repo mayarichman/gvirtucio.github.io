@@ -7,13 +7,13 @@ permalink: /about/
 ![Greg Virtucio]({{ site.baseurl }}/assets/img/gv.jpg)
 Hi! I am Greg Virtucio. People call me GV. 
 
-I am an [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst.
+I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a systems analyst.
 
 I started with my photography hobby in 2012. I mostly shoot street, candid, landscape, cityscape or whatever I feel like capturing. 
 
 My very first camera was the Sony Nex-5R with the 16-50mm kit lens. I then bought a Canon FD 50mm 1.4 SSC, and I simply fell in love with it. This started craving for manual lenses. 
 
-I had:
+Manual lenses I had:
 
 - Canon FD 50mm f1.4 SSC
 - Canon FD 85mm f1.2L
