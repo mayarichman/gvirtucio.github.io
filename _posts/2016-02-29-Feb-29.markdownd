@@ -2,7 +2,7 @@
 layout: post
 title:  "Sample page"
 subtitle: "Just Trying it out."
-date:   2016-02-29 05:56:45
+date:   2016-2-29 05:56:45
 ---
 
 So, apparently, Jekyll can't generate posts on Feb. 29, 2016.
