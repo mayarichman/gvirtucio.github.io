@@ -11,7 +11,7 @@ I am a [hobbyist / amateur photographer](http://gvpix.com), a web host and a sys
 
 I started with my photography hobby in 2012. I mostly shoot street, candid, landscape, cityscape or whatever I feel like capturing. 
 
-My very first camera was the Sony Nex-5R with the 16-50mm kit lens. I then bought a Canon FD 50mm 1.4 SSC, and I simply fell in love with it. This started craving for manual lenses. 
+My very first camera was the Sony Nex-5R with the 16-50mm kit lens. I then bought a Canon FD 50mm 1.4 SSC, and I simply fell in love with it. This started my craving for manual lenses. 
 
 Manual lenses I had:
 
@@ -39,4 +39,4 @@ Fujifilm X-T1:
 
 Sony native lenses are what I use mostly nowadays, but I still use my manual ones whenever I feel like it.
 
-I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/), and my photoblog, [GV Pix](http://gvpix.com). Higher resolution photos are available thru [my Flickr page](https://www.flickr.com/photos/gregvirtucio/) with a Attribution-ShareAlike Creative Commons license.
+I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/), and my photoblog, [GV Pix](http://gvpix.com). Higher resolution photos are available thru [my Flickr page](https://www.flickr.com/photos/gregvirtucio/) with an Attribution-ShareAlike Creative Commons license.
