@@ -40,3 +40,9 @@ Fujifilm X-T1:
 Sony native lenses are what I use mostly nowadays, but I still use my manual ones whenever I feel like it.
 
 I post my photos at Instagram, [gvirtucio](https://www.instagram.com/gvirtucio/), and my photoblog, [GV Pix](http://gvpix.com). Higher resolution photos are available thru [my Flickr page](https://www.flickr.com/photos/gregvirtucio/) with an Attribution-ShareAlike Creative Commons license.
+
+My social links:
+
+ - [Google Plus](https://plus.google.com/+GregVirtucio)
+ - [Facebook](https://www.facebook.com/greg.virtucio)
+ - [Twitter](https://twitter.com/gvirtucio)
