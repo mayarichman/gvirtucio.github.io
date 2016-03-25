@@ -1,23 +1,20 @@
 # Site settings
-title: Greg Virtucio
+title: Maya Richman
 description: >
-  I am GV and this is my personal homepage.
+  I am Maya and this is my personal homepage.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gvirtuc.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Greg Virtucio
-  googleplus: https://plus.google.com/+GregVirtucio
-  github: gvirtucio
-  twitter: gvirtucio
+  fullname: Maya Richman
+  github: mayarichman
+  twitter: mayarichman
   # disqus: your_disqus_username
-
-google_analytics: 'UA-74424285-1'
 
 # Handling Reading
 exclude: ["README.md", "README.html"]
 
 # Build settings
 markdown: kramdown
-timezone: Asia/Manila
+timezone: Europe/Berlin

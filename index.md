@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Hi, I am GV.
-subtitle: Also known as Greg Virtucio.
+title: Hi, I am MSR.
+subtitle: Also known as Maya.
 ---
 
-Looks like you've stumbled upon my simple site. 
+Looks like you've stumbled upon my simple site. It's super small so you can afford to take the take to peruse it.
 
-Please feel free to look around. 
-
-You can know more [about me](/about) or you can visit my photoblog, [GV Pix](http://gvpix.com)
+Learn more [about me](/about).
