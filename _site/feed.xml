@@ -4,10 +4,10 @@
     <title>Maya Richman</title>
     <description>I am Maya and this is my personal homepage.
 </description>
-    <link>http://gvirtuc.io/</link>
-    <atom:link href="http://gvirtuc.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Mar 2016 17:13:50 +0100</pubDate>
-    <lastBuildDate>Fri, 25 Mar 2016 17:13:50 +0100</lastBuildDate>
+    <link>/simple-blog/</link>
+    <atom:link href="/simple-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Mar 2016 17:22:12 +0100</pubDate>
+    <lastBuildDate>Fri, 25 Mar 2016 17:22:12 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;So, apparently, Jekyll can’t generate posts dated Feb. 29, 2016.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Feb 2016 16:56:45 +0100</pubDate>
-        <link>http://gvirtuc.io/2016/02/28/jekyll-and-date.html</link>
-        <guid isPermaLink="true">http://gvirtuc.io/2016/02/28/jekyll-and-date.html</guid>
+        <link>/simple-blog/2016/02/28/jekyll-and-date.html</link>
+        <guid isPermaLink="true">/simple-blog/2016/02/28/jekyll-and-date.html</guid>
         
         
       </item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Sun, 28 Feb 2016 03:09:45 +0100</pubDate>
-        <link>http://gvirtuc.io/2016/02/28/first-update.html</link>
-        <guid isPermaLink="true">http://gvirtuc.io/2016/02/28/first-update.html</guid>
+        <link>/simple-blog/2016/02/28/first-update.html</link>
+        <guid isPermaLink="true">/simple-blog/2016/02/28/first-update.html</guid>
         
         
       </item>
@@ -49,8 +49,8 @@
 
 </description>
         <pubDate>Thu, 28 Jan 2016 11:56:45 +0100</pubDate>
-        <link>http://gvirtuc.io/2016/01/28/sample-post.html</link>
-        <guid isPermaLink="true">http://gvirtuc.io/2016/01/28/sample-post.html</guid>
+        <link>/simple-blog/2016/01/28/sample-post.html</link>
+        <guid isPermaLink="true">/simple-blog/2016/01/28/sample-post.html</guid>
         
         
       </item>
